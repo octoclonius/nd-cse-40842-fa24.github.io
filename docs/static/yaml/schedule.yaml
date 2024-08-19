@@ -1,0 +1,190 @@
+- name:     "Book 01: Hackers - Heroes of the Computer Revolution"
+
+- name:     True Hackers
+  days:
+      - date:           Tue 08/27
+        topics:         Syllabus, Logistics
+        assignment:     Reading 01
+
+      - date:           Thu 08/29
+        topics:         "Cambridge: The Fifties and Sixties"
+
+      - date:           Sun 09/01
+        topics:         Individual Reflection
+        assignment:     Writing 01
+
+- name:     Hardware Hackers
+  days:
+      - date:           Tue 09/03
+        topics:         "Northern California: The Seventies"
+        assignment:     Reading 02
+
+      - date:           Thu 09/05
+        topics:         Presentations
+      
+      - date:           Sun 09/08
+        topics:         Individual Reflection
+        assignment:     Writing 02
+      
+
+- name:     Game Hackers
+  days:
+      - date:           Tue 09/10
+        topics:         "The Sierras: The Eighties"
+        assignment:     Reading 03
+
+      - date:           Thu 09/12
+        topics:         Presentations
+
+      - date:           Sun 09/15
+        topics:         Individual Reflection
+        assignment:     Writing 03
+
+- name:     Project 01
+  days:
+      - date:           Tue 09/17
+        topics:         Hackathon
+
+      - date:           Thu 09/19
+        topics:         Presentations
+        assignment:     Project 01
+
+- name:     "Book 02: Hackers and Painters"
+
+- name:     Nerds and Hackers
+  days:
+      - date:           Tue 09/24
+        topics:         Why Nerds Are Unpopular, Hackers and Painters, Good Bad Attitude, What You Can't Say
+        assignment:     Reading 04
+
+      - date:           Thu 09/26
+        topics:         Presentations
+      
+      - date:           Sun 09/29
+        topics:         Individual Reflection
+        assignment:     Writing 04
+
+- name:     Programming Languages
+  days:
+      - date:           Tue 10/01
+        topics:         Beating the Averages, The Hundred-Year Language, Revenge of the Nerds
+        assignment:     Reading 05
+
+      - date:           Thu 10/03
+        topics:         Presentations
+      
+      - date:           Sun 10/06
+        topics:         Individual Reflection
+        assignment:     Writing 05
+
+- name:     Wealth Creation
+  days:
+      - date:           Tue 10/08
+        topics:         The Other Road Ahead, How To Make Wealth, Mind the Gap
+        assignment:     Reading 06
+
+      - date:           Thu 10/10
+        topics:         Patterns
+
+      - date:           Sun 10/13
+        topics:         Individual Reflection
+        assignment:     Writing 06
+
+- name:     Project 02
+  days:
+      - date:           Tue 10/15
+        topics:         Hackathon
+
+      - date:           Thu 10/17
+        topics:         Presentations
+        assignment:     Project 01
+
+- name:   "Fall Break"
+
+- name:   "Book 03: The Cathedral and the Bazaar"
+
+- name:     History, Manifesto
+  days:
+      - date:           Tue 10/29
+        topics:         A Brief History of Hackerdom, The Cathedral and the Bazaar
+        assignment:     Reading 07
+
+      - date:           Thu 10/31
+        topics:         Presentations
+      
+      - date:           Sun 11/03
+        topics:         Individual Reflection
+        assignment:     Writing 07
+
+- name:     Customs, Culture
+  days:
+      - date:           Tue 11/05
+        topics:         Homesteading the Noosphere
+        assignment:     Reading 08
+
+      - date:           Thu 11/07
+        topics:         Presentations
+        assignment:     Proposal 03
+      
+      - date:           Sun 11/10
+        topics:         Individual Reflection
+        assignment:     Writing 08
+
+- name:     Economics, Sustainability
+  days:
+      - date:           Tue 11/12
+        topics:         The Magic Cauldron
+        assignment:     Reading 09
+
+      - date:           Thu 11/14
+        topics:         Presentations
+
+      - date:           Sun 11/17
+        topics:         Individual Reflection
+        assignment:     Writing 09
+
+- name:   "Book 04: Just for Fun"
+
+- name:     Birth of Linux
+  days:
+      - date:           Tue 11/19
+        topics:         Birth of a Nerd, Birth of an Operating System
+        assignment:     Reading 10
+
+      - date:           Thu 11/21
+        topics:         Presentations
+        assignment:     Progress 03
+      
+      - date:           Sun 11/24
+        topics:         Individual Reflection
+        assignment:     Writing 10
+
+- name:     King of the Ball
+  days:
+      - date:           Tue 11/26
+        topics:         King of the Ball
+        assignment:     Reading 11
+
+      - date:           Thu 11/28
+        topics:         Thanksgiving
+
+- name:     Revolution OS
+  days:
+      - date:           Tue 12/03
+        topics:         Revolution OS
+
+      - date:           Thu 12/05
+        topics:         Presentations
+      
+      - date:           Sun 12/08
+        topics:         Individual Reflection
+        assignment:     Writing 11
+
+- name:     Project 03
+  days:
+      - date:           Tue 12/10
+        topics:         Hackathon
+
+      - date:           Thu 12/12
+        topics:         Presentations
+        assignment:     Project 03

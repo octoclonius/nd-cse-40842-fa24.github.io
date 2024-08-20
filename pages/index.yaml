@@ -173,6 +173,8 @@ body:       |
                     {% for item in day.get('items', []) %}
                     {% if item['name'].lower().startswith('presentations') or item.get('type', None) == 'presentation' %}
                       {% set item['label'] = 'danger' %}
+                    {% elif item['name'].lower().startswith('slide') %}
+                      {% set item['label'] = 'success' %}
                     {% elif item['name'].lower().startswith('panopto') %}
                       {% set item['label'] = 'info' %}
                     {% else %}
@@ -190,13 +192,13 @@ body:       |
                     {% if assignment %}
                     {% set assignment_id = ''.join(assignment.lower().split()) %}
                     {% if assignment_id.startswith('reading') %}
-                      {% set assignment_label = 'primary' %}
+                      {% set assignment_label = 'info' %}
                     {% elif assignment_id.startswith('writing') %}
-                      {% set assignment_label = 'caution' %}
+                      {% set assignment_label = 'primary' %}
                     {% elif assignment_id.startswith('presentation') %}
                       {% set assignment_label = 'danger' %}
                     {% else %}
-                      {% set assignment_label = 'success' %}
+                      {% set assignment_label = 'caution' %}
                     {% end %}
                       <a href="{{ assignment_id }}.html" class="label label-{{ assignment_label }}">{{ assignment }}</a>
                     {% end %}
@@ -227,19 +229,19 @@ body:       |
             </thead>
             <tbody>
                 <tr>
-                    <td><span class="label label-primary">Readings</span> Weekly reading assignments and corresponding <span class="label label-caution">Writings</span>.</td>
+                    <td><span class="label label-primary">Writings</span> Weekly reading and writing assignments.</td>
                     <td class="text-center">10 &times; 6</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-success">Projects</span> Collaborative group projects.</td>
+                    <td><span class="label label-caution">Projects</span> Collaborative group projects.</td>
                     <td class="text-center">45, 45, 60</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-danger">Presentation</span> Individual presentations.</td>
+                    <td><span class="label label-danger">Presentations</span> Individual presentations.</td>
                     <td class="text-center">2 &times; 30</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-info">Participation</span> Regular class attendation and contribution to course community.</td>
+                    <td><span class="label label-warning">Participation</span> Regular class attendation and contribution to course community.</td>
                     <td class="text-center">30</td>
                 </tr>
                 <tr>

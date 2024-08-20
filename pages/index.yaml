@@ -165,7 +165,7 @@ body:       |
                 {% end %}
                     <td class="text-center text-strong"><tt>{{ day['date'] }}</tt></td>
                     <td class="text-strong">
-                    {% if 'Presentations' in day.get('topics', '') or 'Break' in day.get('topics', '') or day.get('topics', '').startswith('Hackathon') or day.get('assignment', '').startswith('Writing') %}
+                    {% if 'Presentations' in day.get('topics', '') or 'Break' in day.get('topics', '') or day.get('topics', '').startswith('Hackathon') or day.get('assignment', '').startswith('Writing') or 'Thanksgiving' in day.get('topics', '') %}
                     <i class="text-muted">{{ day.get('topics', '') }}</i>
                     {% else %}
                     {{ day.get('topics', '') }}

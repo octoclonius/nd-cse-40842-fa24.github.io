@@ -24,6 +24,9 @@
       - date:           Tue 09/03
         topics:         "Northern California: The Seventies"
         assignment:     Reading 02
+        items:
+          - name:       Slides 02
+            link:       https://docs.google.com/presentation/d/1o0a9GldvJTlXOLv7YETNyOLqXBBfq0dBdaNkFKDNMHc/edit?usp=sharing
 
       - date:           Thu 09/05
         topics:         Presentations
@@ -39,6 +42,9 @@
       - date:           Tue 09/10
         topics:         "The Sierras: The Eighties"
         assignment:     Reading 03
+        items:
+          - name:       Slides 03
+            link:       https://docs.google.com/presentation/d/17djoXQRIxZf6JB82Nt7zifHI6IYHiVUqB4R3UbE-fXk/edit?usp=sharing
 
       - date:           Thu 09/12
         topics:         Presentations

@@ -5,9 +5,15 @@
       - date:           Tue 08/27
         topics:         Syllabus, Logistics
         assignment:     Reading 01
+        items:
+          - name:       Slides 00
+            link:       https://docs.google.com/presentation/d/117fx5CaG9MaBuT87n4BsOgIgTwDxlqswCAp-h3Hbn5s/edit?usp=sharing
 
       - date:           Thu 08/29
         topics:         "Cambridge: The Fifties and Sixties"
+        items:
+          - name:       Slides 01
+            link:       https://docs.google.com/presentation/d/1RyvbwfGDdMV6GMd8dd-iZOa0HGXO0chY60RVvBgyhcw/edit?usp=sharing
 
       - date:           Sun 09/01
         topics:         Individual Reflection

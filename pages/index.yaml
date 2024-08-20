@@ -306,7 +306,7 @@ body:       |
                 <h4><i class="fa fa-calendar"></i> Due Dates</h4>
                 <p>
                 <ul>
-                <li>All <b>Writings</b> are due at <b>noon Sunday</b> of the assigned week.</li>
+                <li>All <b>Writings</b> are due at <b>midnight Sunday</b> of the assigned week.</li>
                 <li>All <b>Proposals</b> and <b>Progress Reports</b> are due at <b>midnight Thursday</b> of the assigned week.</li>
                 <li>All <b>Projects</b> are due when they are <b>presented</b> in class.</li>
                 </ul>

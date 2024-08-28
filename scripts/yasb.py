@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright (c) 2022 Peter Bui <pbui@nd.edu>
+# Copyright (c) 2024 Peter Bui <pbui@nd.edu>
 
 # Permission to use, copy, modify, and/or distribute this software for any
 # purpose with or without fee is hereby granted, provided that the above
@@ -25,6 +25,7 @@ import tornado.template
 import markdown
 import markdown.extensions.codehilite
 import markdown.extensions.toc
+import csv
 import yaml
 
 # Page
@@ -37,7 +38,10 @@ def load_page_from_yaml(path):
     external = data.get('external', {}) or {}
 
     for k, v in external.items():
-        data['external'][k] = yaml.safe_load(open(v))
+        if v.endswith('.yaml'):
+            data['external'][k] = yaml.safe_load(open(v))
+        elif v.endswith('.csv'):
+            data['external'][k] = csv.DictReader(open(v))
 
     if 'prefix' not in data:
         data['prefix'] = ''

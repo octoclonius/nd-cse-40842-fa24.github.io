@@ -1,0 +1,15 @@
+#!/bin/sh
+
+FEED_PATH=$(dirname $0)/../docs/rss.xml
+
+# Update planet
+
+if ./scripts/planet.py > ${FEED_PATH}.tmp; then
+    mv -f ${FEED_PATH}.tmp ${FEED_PATH}
+else
+    rm -f ${FEED_PATH}.tmp
+fi
+
+# Push FEED
+
+lftp -c "open www3ftps.nd.edu; put -O www/teaching/cse.40842.fa24 ${FEED_PATH}"

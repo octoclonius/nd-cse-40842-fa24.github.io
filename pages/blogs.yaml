@@ -1,0 +1,29 @@
+title:      Blogs
+icon:       fa-rss
+navigation:
+  - name:   Home
+    link:   "index.html"
+    icon:   fa-code
+internal:
+external:
+    blogs:  static/csv/blogs.csv
+body:       |
+
+    <div class="row" markdown="1">
+    <table class="table condensed table-striped">
+      <thead>
+        <tr>
+          <th>NetID</th>
+          <th>URL</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for blog in page.external['blogs'] or [] %}
+        <tr>
+          <td>{{ blog['NetID'] }}</td>
+          <td><a href="{{ blog['URL'] }}">{{ blog['URL'] }}</a></td>
+        </tr>
+      {% end %}
+      </tbody>
+    </table>
+    </div>

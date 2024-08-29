@@ -31,6 +31,9 @@
       - date:           Thu 09/05
         topics:         Presentations
         assignment:     Proposal 01
+        items:
+          - name:       "HFT Systems"
+            type:       presentation
       
       - date:           Sun 09/08
         topics:         Individual Reflection
@@ -49,6 +52,13 @@
       - date:           Thu 09/12
         topics:         Presentations
         assignment:     Progress 01
+        items:
+          - name:       "ROMS"
+            type:       presentation
+          - name:       "Playstation Antipiracy"
+            type:       presentation
+          - name:       "RCT and Assembly"
+            type:       presentation
 
       - date:           Sun 09/15
         topics:         Individual Reflection
@@ -73,6 +83,17 @@
 
       - date:           Thu 09/26
         topics:         Presentations
+        items:
+          - name:       "Minority Report"
+            type:       presentation
+          - name:       "Imitation Game"
+            type:       presentation
+          - name:       "TRON"
+            type:       presentation
+          - name:       "Mr. Robot"
+            type:       presentation
+          - name:       "Ex Machina"
+            type:       presentation
       
       - date:           Sun 09/29
         topics:         Individual Reflection
@@ -85,8 +106,18 @@
         assignment:     Reading 05
 
       - date:           Thu 10/03
-        topics:         Presentations
         assignment:     Proposal 02
+        items:
+          - name:       "Brainfuck"
+            type:       presentation
+          - name:       "Vercel"
+            type:       presentation
+          - name:       "AWS"
+            type:       presentation
+          - name:       "Scheme"
+            type:       presentation
+          - name:       "TypeScript"
+            type:       presentation
       
       - date:           Sun 10/06
         topics:         Individual Reflection
@@ -99,8 +130,16 @@
         assignment:     Reading 06
 
       - date:           Thu 10/10
-        topics:         Presentations
         assignment:     Progress 02
+        items:
+          - name:       "Kubernetes"
+            type:       presentation
+          - name:       "Docker"
+            type:       presentation
+          - name:       "Neural Networks"
+            type:       presentation
+          - name:       "AGI in Finance"
+            type:       presentation
 
       - date:           Sun 10/13
         topics:         Individual Reflection
@@ -126,7 +165,17 @@
         assignment:     Reading 07
 
       - date:           Thu 10/31
-        topics:         Presentations
+        items:
+          - name:       "Wikipedia"
+            type:       presentation
+          - name:       "Blender"
+            type:       presentation
+          - name:       "Project Gutenberg"
+            type:       presentation
+          - name:       "GNU"
+            type:       presentation
+          - name:       "Roblox"
+            type:       presentation
       
       - date:           Sun 11/03
         topics:         Individual Reflection
@@ -141,6 +190,13 @@
       - date:           Thu 11/07
         topics:         Presentations
         assignment:     Proposal 03
+        items:
+          - name:       "Bots"
+            type:       presentation
+          - name:       "Continuous Integration"
+            type:       presentation
+          - name:       "GitHub / GitLab"
+            type:       presentation
       
       - date:           Sun 11/10
         topics:         Individual Reflection
@@ -154,6 +210,13 @@
 
       - date:           Thu 11/14
         topics:         Presentations
+        items:
+          - name:       "Twitch / YouTube Streams"
+            type:       presentation
+          - name:       "Patreon"
+            type:       presentation
+          - name:       "Microtransactions"
+            type:       presentation
 
       - date:           Sun 11/17
         topics:         Individual Reflection
@@ -168,8 +231,12 @@
         assignment:     Reading 10
 
       - date:           Thu 11/21
-        topics:         Presentations
         assignment:     Progress 03
+        items:
+          - name:       "NixOS"
+            type:       presentation
+          - name:       "TempleOS"
+            type:       presentation
       
       - date:           Sun 11/24
         topics:         Individual Reflection
@@ -191,6 +258,11 @@
 
       - date:           Thu 12/05
         topics:         Presentations
+        items:
+          - name:       "AUR"
+            type:       presentation
+          - name:       "Flatpak"
+            type:       presentation
       
       - date:           Sun 12/08
         topics:         Individual Reflection

@@ -29,10 +29,10 @@
             link:       https://docs.google.com/presentation/d/1o0a9GldvJTlXOLv7YETNyOLqXBBfq0dBdaNkFKDNMHc/edit?usp=sharing
 
       - date:           Thu 09/05
-        topics:         Presentations
         assignment:     Proposal 01
         items:
           - name:       "HFT Systems"
+            link:       https://docs.google.com/presentation/d/1VG8yYHnpPSvg8Wg0fnWImOprlHIFN7RuUD_j6wawljE/edit?usp=sharing
             type:       presentation
       
       - date:           Sun 09/08
@@ -50,7 +50,6 @@
             link:       https://docs.google.com/presentation/d/17djoXQRIxZf6JB82Nt7zifHI6IYHiVUqB4R3UbE-fXk/edit?usp=sharing
 
       - date:           Thu 09/12
-        topics:         Presentations
         assignment:     Progress 01
         items:
           - name:       "ROMS"
@@ -82,7 +81,6 @@
         assignment:     Reading 04
 
       - date:           Thu 09/26
-        topics:         Presentations
         items:
           - name:       "Minority Report"
             type:       presentation
@@ -152,7 +150,7 @@
 
       - date:           Thu 10/17
         topics:         Presentations
-        assignment:     Project 01
+        assignment:     Project 02
 
 - name:   "Fall Break"
 
@@ -188,7 +186,6 @@
         assignment:     Reading 08
 
       - date:           Thu 11/07
-        topics:         Presentations
         assignment:     Proposal 03
         items:
           - name:       "Bots"
@@ -209,7 +206,6 @@
         assignment:     Reading 09
 
       - date:           Thu 11/14
-        topics:         Presentations
         items:
           - name:       "Twitch / YouTube Streams"
             type:       presentation
@@ -257,7 +253,6 @@
         topics:         Revolution OS
 
       - date:           Thu 12/05
-        topics:         Presentations
         items:
           - name:       "AUR"
             type:       presentation

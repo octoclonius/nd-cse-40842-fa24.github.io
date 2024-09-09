@@ -18,7 +18,7 @@ body:       |
         </tr>
       </thead>
       <tbody>
-      {% for blog in page.external['blogs'] or [] %}
+      {% for blog in sorted(page.external['blogs'], key=lambda b: b['NetID']) or [] %}
         <tr>
           <td>{{ blog['NetID'] }}</td>
           <td><a href="{{ blog['URL'] }}">{{ blog['URL'] }}</a></td>

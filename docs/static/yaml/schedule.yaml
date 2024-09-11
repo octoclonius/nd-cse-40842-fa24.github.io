@@ -52,13 +52,15 @@
       - date:           Thu 09/12
         assignment:     Progress 01
         items:
+          - name:       "CGI"
+            type:       presentation
+          - name:       "Steam Deck"
+            type:       presentation
           - name:       "ROMS"
             type:       presentation
           - name:       "Playstation Antipiracy"
             type:       presentation
           - name:       "RCT and Assembly"
-            type:       presentation
-          - name:       "CGI"
             type:       presentation
 
       - date:           Sun 09/15
@@ -136,8 +138,6 @@
             type:       presentation
           - name:       "Docker"
             type:       presentation
-          - name:       "Neural Networks"
-            type:       presentation
           - name:       "AGI in Finance"
             type:       presentation
 
@@ -190,6 +190,8 @@
       - date:           Thu 11/07
         assignment:     Proposal 03
         items:
+          - name:       "Git vs SVN"
+            type:       presentation
           - name:       "GitHub / GitLab"
             type:       presentation
           - name:       "Continuous Integration"
@@ -235,7 +237,9 @@
         items:
           - name:       "NixOS"
             type:       presentation
-          - name:       "TempleOS"
+          - name:       "SteamOS"
+            type:       presentation
+          - name:       "LLVM"
             type:       presentation
       
       - date:           Sun 11/24

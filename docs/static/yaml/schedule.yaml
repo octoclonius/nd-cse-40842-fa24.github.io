@@ -53,14 +53,19 @@
         assignment:     Progress 01
         items:
           - name:       "CGI"
+            link:       https://www.canva.com/design/DAGQR8ysvIk/Sv8G2yEV57RC66wp1_a61w/edit
             type:       presentation
           - name:       "Steam Deck"
+            link:       https://docs.google.com/presentation/d/1Pn3fPaNQTEfZudZZvGFcVqpZu8koc4LllQK6YsRiy20/edit
             type:       presentation
           - name:       "ROMS"
+            link:       https://docs.google.com/presentation/d/1du5Sdn1qMFCKbij2LIbS2ppTy5Dcc-Wf/edit
             type:       presentation
           - name:       "Playstation Antipiracy"
+            link:       https://docs.google.com/presentation/d/1HlSQW-M1KPwoUr0Lh-OgqUDQiOsPVhdBE5t6xR-Z7ec/edit
             type:       presentation
           - name:       "RCT and Assembly"
+            link:       https://docs.google.com/presentation/d/1FdE7XKAJom1fPzQpVFQmzw7VjgGmkPOQsQfOjfgX2Q0/edit?usp=sharing
             type:       presentation
 
       - date:           Sun 09/15

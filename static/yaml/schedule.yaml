@@ -88,6 +88,9 @@
       - date:           Tue 09/24
         topics:         Why Nerds Are Unpopular, Hackers and Painters, Good Bad Attitude, What You Can't Say
         assignment:     Reading 04
+        items:
+          - name:       Slides 04
+            link:       https://docs.google.com/presentation/d/1lqA3_G4CTBmGNjy8vB6A7GoW96rZwCo7_m-XQjd9IBk/edit?usp=sharing
 
       - date:           Thu 09/26
         items:
@@ -111,6 +114,9 @@
       - date:           Tue 10/01
         topics:         Beating the Averages, The Hundred-Year Language, Revenge of the Nerds
         assignment:     Reading 05
+        items:
+          - name:       Slides 05
+            link:       https://docs.google.com/presentation/d/1nhN75wo8S6GK0ZJXzntNZqXV26vb7C1hH0O6HRjStc8/edit?usp=sharing
 
       - date:           Thu 10/03
         assignment:     Proposal 02
@@ -135,6 +141,9 @@
       - date:           Tue 10/08
         topics:         The Other Road Ahead, How To Make Wealth, Mind the Gap
         assignment:     Reading 06
+        items:
+          - name:       Slides 06
+            link:       https://docs.google.com/presentation/d/1ap9owZx5zI-ay89EFkcwXkS28CNjxjLOtQ7r9de0XFM/edit?usp=sharing
 
       - date:           Thu 10/10
         assignment:     Progress 02

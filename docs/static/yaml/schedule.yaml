@@ -88,18 +88,26 @@
       - date:           Tue 09/24
         topics:         Why Nerds Are Unpopular, Hackers and Painters, Good Bad Attitude, What You Can't Say
         assignment:     Reading 04
+        items:
+          - name:       Slides 04
+            link:       https://docs.google.com/presentation/d/1lqA3_G4CTBmGNjy8vB6A7GoW96rZwCo7_m-XQjd9IBk/edit?usp=sharing
 
       - date:           Thu 09/26
         items:
-          - name:       "Minority Report"
-            type:       presentation
           - name:       "Imitation Game"
+            link:       https://docs.google.com/presentation/d/12HW3tNehBLVg1S4fPfWaS98Hs2aYcClOTei4UmqTLLo/edit?usp=drive_link
             type:       presentation
           - name:       "TRON"
+            link:       https://www.canva.com/design/DAGR0fbZYPw/22QCdGaR10ZN2TXbX5qalw/edit?utm_content=DAGR0fbZYPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+            type:       presentation
+          - name:       "Matrix"
+            link:       https://docs.google.com/presentation/d/1zCTop-qYb3vdeoXB6q5TLNToHVdux2IXhNmAu-gTqFs/edit?usp=drive_link
             type:       presentation
           - name:       "Mr. Robot"
+            link:       https://docs.google.com/presentation/d/1oxHyn9QmrS8Z0sOdbM6F9XG3SQoz8Dwj/edit?usp=sharing&ouid=105807145945519654952&rtpof=true&sd=true
             type:       presentation
-          - name:       "Ex Machina"
+          - name:       "Black Berry"
+            link:       https://docs.google.com/presentation/d/1XsbwQt5fvlinHKGQG2d_-aTRXDZjCk6kXa6A8XwIPW8/edit?usp=drive_link
             type:       presentation
       
       - date:           Sun 09/29
@@ -111,19 +119,25 @@
       - date:           Tue 10/01
         topics:         Beating the Averages, The Hundred-Year Language, Revenge of the Nerds
         assignment:     Reading 05
+        items:
+          - name:       Slides 05
+            link:       https://docs.google.com/presentation/d/1nhN75wo8S6GK0ZJXzntNZqXV26vb7C1hH0O6HRjStc8/edit?usp=sharing
+          - name:       "Ghost in the Shell"
+            link:       https://www.figma.com/proto/4IUn8YHaKWqHou2nT0eC0q/hackers?node-id=2-78&node-type=frame&t=IlKXehJT6zC5AGFy-0&scaling=contain&content-scaling=fixed&page-id=0%3A1
+            type:       presentation
 
       - date:           Thu 10/03
         assignment:     Proposal 02
         items:
           - name:       "Brainfuck"
             type:       presentation
-          - name:       "Vercel"
-            type:       presentation
-          - name:       "AWS"
-            type:       presentation
           - name:       "Scheme"
             type:       presentation
           - name:       "TypeScript"
+            type:       presentation
+          - name:       "AWS"
+            type:       presentation
+          - name:       "Vercel"
             type:       presentation
       
       - date:           Sun 10/06
@@ -135,6 +149,9 @@
       - date:           Tue 10/08
         topics:         The Other Road Ahead, How To Make Wealth, Mind the Gap
         assignment:     Reading 06
+        items:
+          - name:       Slides 06
+            link:       https://docs.google.com/presentation/d/1ap9owZx5zI-ay89EFkcwXkS28CNjxjLOtQ7r9de0XFM/edit?usp=sharing
 
       - date:           Thu 10/10
         assignment:     Progress 02

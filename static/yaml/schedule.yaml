@@ -157,6 +157,7 @@
         assignment:     Progress 02
         items:
           - name:       "Docker"
+            link:       https://docs.google.com/presentation/d/1kNRQowVmaHHvrfaxLUrmYcKPH401ZK2t6CNMgNtHwrQ/edit?usp=sharing
             type:       presentation
           - name:       "Kubernetes"
             link:       https://docs.google.com/presentation/d/1rq8dS8z5b8Rhjob8LqQTPNt7pR3PQZNqHnf7vGYf9k4/edit?usp=sharing
@@ -165,6 +166,7 @@
             link:       https://docs.google.com/presentation/d/1rq8dS8z5b8Rhjob8LqQTPNt7pR3PQZNqHnf7vGYf9k4/edit?usp=sharing
             type:       presentation
           - name:       "Breaking the Law"
+            link:       https://www.canva.com/design/DAGTJJ71u-I/TN5DwViFnwkWm06iytDjgA/edit?utm_content=DAGTJJ71u-I&utm_campaign=designshare&utm_medium=link2
             type:       presentation
 
       - date:           Sun 10/13

@@ -156,11 +156,15 @@
       - date:           Thu 10/10
         assignment:     Progress 02
         items:
-          - name:       "Kubernetes"
-            type:       presentation
           - name:       "Docker"
             type:       presentation
+          - name:       "Kubernetes"
+            link:       https://docs.google.com/presentation/d/1rq8dS8z5b8Rhjob8LqQTPNt7pR3PQZNqHnf7vGYf9k4/edit?usp=sharing
+            type:       presentation
           - name:       "AGI in Finance"
+            link:       https://docs.google.com/presentation/d/1rq8dS8z5b8Rhjob8LqQTPNt7pR3PQZNqHnf7vGYf9k4/edit?usp=sharing
+            type:       presentation
+          - name:       "Breaking the Law"
             type:       presentation
 
       - date:           Sun 10/13

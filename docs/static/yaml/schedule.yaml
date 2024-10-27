@@ -191,6 +191,9 @@
       - date:           Tue 10/29
         topics:         A Brief History of Hackerdom, The Cathedral and the Bazaar
         assignment:     Reading 07
+        items:
+          - name:       Slides 07
+            link:       https://docs.google.com/presentation/d/1ROqoOzu1b-l4LMNYGq0itzJ3KT-KgEx0rukxrAi18RQ/edit?usp=sharing
 
       - date:           Thu 10/31
         items:
@@ -214,6 +217,9 @@
       - date:           Tue 11/05
         topics:         Homesteading the Noosphere
         assignment:     Reading 08
+        items:
+          - name:       Slides 08
+            link:       https://docs.google.com/presentation/d/13M5MoNN7-5CIhLPN-JC-cgPZA0PskMFB6nF_O5Q4m8s/edit?usp=sharing
 
       - date:           Thu 11/07
         assignment:     Proposal 03
@@ -238,6 +244,9 @@
       - date:           Tue 11/12
         topics:         The Magic Cauldron
         assignment:     Reading 09
+        items:
+          - name:       Slides 09
+            link:       https://docs.google.com/presentation/d/1YxMghyyTGSwBTd9V1auhNehK_MrrVAuPhCPwjkTFCoQ/edit?usp=sharing
 
       - date:           Thu 11/14
         items:
@@ -259,6 +268,9 @@
       - date:           Tue 11/19
         topics:         Birth of a Nerd, Birth of an Operating System
         assignment:     Reading 10
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1wKFLCTetMeN2nkNfNxJo9gs60cAsMTq4u1QMxtE7-Sw/edit?usp=sharing
 
       - date:           Thu 11/21
         assignment:     Progress 03
@@ -279,6 +291,9 @@
       - date:           Tue 11/26
         topics:         King of the Ball
         assignment:     Reading 11
+        items:
+          - name:       Slides 11
+            link:       https://docs.google.com/presentation/d/1YuW9kBYdr3VnDaingl892i75yohzJCUEicTKnv4eBAI/edit?usp=sharing
 
       - date:           Thu 11/28
         topics:         Thanksgiving

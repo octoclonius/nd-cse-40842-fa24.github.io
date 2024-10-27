@@ -268,6 +268,9 @@
       - date:           Tue 11/19
         topics:         Birth of a Nerd, Birth of an Operating System
         assignment:     Reading 10
+        items:
+          - name:       Slides 10
+            link:       https://docs.google.com/presentation/d/1wKFLCTetMeN2nkNfNxJo9gs60cAsMTq4u1QMxtE7-Sw/edit?usp=sharing
 
       - date:           Thu 11/21
         assignment:     Progress 03
@@ -288,6 +291,9 @@
       - date:           Tue 11/26
         topics:         King of the Ball
         assignment:     Reading 11
+        items:
+          - name:       Slides 11
+            link:       https://docs.google.com/presentation/d/1YuW9kBYdr3VnDaingl892i75yohzJCUEicTKnv4eBAI/edit?usp=sharing
 
       - date:           Thu 11/28
         topics:         Thanksgiving

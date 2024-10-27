@@ -191,6 +191,9 @@
       - date:           Tue 10/29
         topics:         A Brief History of Hackerdom, The Cathedral and the Bazaar
         assignment:     Reading 07
+        items:
+          - name:       Slides 07
+            link:       https://docs.google.com/presentation/d/1ROqoOzu1b-l4LMNYGq0itzJ3KT-KgEx0rukxrAi18RQ/edit?usp=sharing
 
       - date:           Thu 10/31
         items:
@@ -214,6 +217,9 @@
       - date:           Tue 11/05
         topics:         Homesteading the Noosphere
         assignment:     Reading 08
+        items:
+          - name:       Slides 08
+            link:       https://docs.google.com/presentation/d/13M5MoNN7-5CIhLPN-JC-cgPZA0PskMFB6nF_O5Q4m8s/edit?usp=sharing
 
       - date:           Thu 11/07
         assignment:     Proposal 03
@@ -238,6 +244,9 @@
       - date:           Tue 11/12
         topics:         The Magic Cauldron
         assignment:     Reading 09
+        items:
+          - name:       Slides 09
+            link:       https://docs.google.com/presentation/d/1YxMghyyTGSwBTd9V1auhNehK_MrrVAuPhCPwjkTFCoQ/edit?usp=sharing
 
       - date:           Thu 11/14
         items:

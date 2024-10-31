@@ -197,15 +197,17 @@
 
       - date:           Thu 10/31
         items:
-          - name:       "Wikipedia"
+          - name:       "GNU"
+            link:       https://docs.google.com/presentation/d/1hPbIUn0NXKqFxTw5V8XlHq5dw-uG17X0fBbAzdAzTPs/edit?usp=sharing
             type:       presentation
           - name:       "Blender"
+            link:       https://docs.google.com/presentation/d/1SMaNZ6VjV7s1JNkpf71p9qj0UtHWGK30qfCKXyV-Ly4/edit?usp=sharing
             type:       presentation
           - name:       "Project Gutenberg"
+            link:       https://docs.google.com/presentation/d/1uTrA11ErvpBP27V3sO3bxXdDC5mZ5XABTu47D11ByGQ/edit?usp=sharing
             type:       presentation
-          - name:       "GNU"
-            type:       presentation
-          - name:       "Roblox"
+          - name:       "Wikipedia"
+            link:       https://docs.google.com/presentation/d/13NGhQJAhHMQG_gvAhdE08M8vSZeLU0MITBEyGSmmgrI/edit?usp=sharing
             type:       presentation
       
       - date:           Sun 11/03
@@ -233,6 +235,8 @@
           - name:       "Patches"
             type:       presentation
           - name:       "Bots"
+            type:       presentation
+          - name:       "Roblox"
             type:       presentation
 
       - date:           Sun 11/10

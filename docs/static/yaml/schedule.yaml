@@ -227,14 +227,19 @@
         assignment:     Proposal 03
         items:
           - name:       "Git vs SVN"
-            type:       presentation
-          - name:       "GitHub / GitLab"
-            type:       presentation
-          - name:       "Continuous Integration"
+            link:       https://docs.google.com/presentation/d/1P1HjDjg8uwySlq-5YPjMwc3bXezZHkD1Xqeo0DTEx6M/edit
             type:       presentation
           - name:       "Patches"
+            link:       https://www.canva.com/design/DAGViHsfeKY/51BngjAglj3Ca1bprE2jTQ/edit
+            type:       presentation
+          - name:       "GitHub / GitLab"
+            link:       https://docs.google.com/presentation/d/1z2moHGcPZWCXRArKTbx6nSE-SzN1tKJCmI4_CkK5GC0/edit
+            type:       presentation
+          - name:       "Continuous Integration"
+            link:       https://docs.google.com/presentation/d/1NIQN9UgZYf_U5fnNmwFB6kSLu-HyKYx_C6qVid-Vpfg/edit
             type:       presentation
           - name:       "Bots"
+            link:       https://docs.google.com/presentation/d/1lZgWwkJIftKeGxzVaQ4EyMWZHeffdPAJ/edit?usp=drive_link
             type:       presentation
           - name:       "Roblox"
             type:       presentation
